@@ -25,5 +25,8 @@
   "repository": {
     "type": "git",
     "url": "your-repo-url"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }

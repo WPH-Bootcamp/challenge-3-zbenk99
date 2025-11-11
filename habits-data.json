@@ -1,0 +1,62 @@
+{
+  "user": {
+    "name": "Bambang",
+    "createdAt": "2025-11-11T00:00:00.000Z"
+  },
+  "habits": [
+    {
+      "id": 1,
+      "name": "Minum Air 8 Gelas",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-11"
+      ],
+      "createdAt": "2025-11-11T00:00:00.000Z",
+      "category": "Kesehatan"
+    },
+    {
+      "id": 1762861141647,
+      "name": "Minum jus",
+      "targetFrequency": 3,
+      "completions": [],
+      "createdAt": "2025-11-11T11:39:00.730Z",
+      "category": "Kesehatan"
+    },
+    {
+      "id": 1762861199952,
+      "name": "Nonton Netflix",
+      "targetFrequency": 1,
+      "completions": [
+        "2025-11-11"
+      ],
+      "createdAt": "2025-11-11T11:39:59.652Z",
+      "category": "Hiburan"
+    },
+    {
+      "id": 1762861245214,
+      "name": "Lari pagi",
+      "targetFrequency": 7,
+      "completions": [
+        "2025-11-11"
+      ],
+      "createdAt": "2025-11-11T11:40:44.692Z",
+      "category": "Olahraga"
+    },
+    {
+      "id": 1762861815736,
+      "name": "Menyiram bunga",
+      "targetFrequency": 7,
+      "completions": [],
+      "createdAt": "2025-11-11T11:50:14.844Z",
+      "category": "Berkebun"
+    },
+    {
+      "id": 1762861851476,
+      "name": "Berenang",
+      "targetFrequency": 2,
+      "completions": [],
+      "createdAt": "2025-11-11T11:50:50.985Z",
+      "category": "Olahraga"
+    }
+  ]
+}
